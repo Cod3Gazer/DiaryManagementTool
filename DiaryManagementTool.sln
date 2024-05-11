@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManagementTool", "DiaryManagementTool\DiaryManagementTool.csproj", "{042F71EA-C1E1-41A1-A16B-EA296E0E5754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{88B7BC3D-B069-4465-9AFE-6025E7AADD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042F71EA-C1E1-41A1-A16B-EA296E0E5754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042F71EA-C1E1-41A1-A16B-EA296E0E5754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042F71EA-C1E1-41A1-A16B-EA296E0E5754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042F71EA-C1E1-41A1-A16B-EA296E0E5754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B7BC3D-B069-4465-9AFE-6025E7AADD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B7BC3D-B069-4465-9AFE-6025E7AADD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B7BC3D-B069-4465-9AFE-6025E7AADD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B7BC3D-B069-4465-9AFE-6025E7AADD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AACD867-5AC1-42ED-852B-EEFD3617E0C2}
+	EndGlobalSection
+EndGlobal
