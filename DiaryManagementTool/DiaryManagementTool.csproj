@@ -268,9 +268,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAcessLayer\DataAcessLayer.csproj">
+    <ProjectReference Include="..\DataAcessLayer\DataAccessLayer.csproj">
       <Project>{88b7bc3d-b069-4465-9afe-6025e7aadd06}</Project>
-      <Name>DataAcessLayer</Name>
+      <Name>DataAccessLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManagementTool", "DiaryManagementTool\DiaryManagementTool.csproj", "{042F71EA-C1E1-41A1-A16B-EA296E0E5754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{88B7BC3D-B069-4465-9AFE-6025E7AADD06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAcessLayer\DataAccessLayer.csproj", "{88B7BC3D-B069-4465-9AFE-6025E7AADD06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
